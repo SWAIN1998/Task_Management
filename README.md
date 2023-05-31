@@ -6,12 +6,12 @@ Website de um organizador de tarefas (to-do list) feito com React JS, Tailwind C
 
 ## Descrição
 
-- Aplicado de organizar suas tarefas com os seguintes dados: título, descrição, data, marcar como completo e marcar como importante. 
-- As tarefas são organizadas em rotas: tarefas de hoje, tarefas importantes, incompletas, completas, todas as tarefas e tarefas por diretório (pasta). Os diretórios e as tarefas podem ser editados ou excluídos. Além disso, há um diretório principal chamado "Main" que não pode ser editado ou excluído.
-- A lista de tarefas pode ser exibida primeiro em: mais próximas, mais distantes, completas ou incompletas.
-- Você pode pesquisar por alguma tarefas no campo de pesquisa.
-- As tarefas de hoje são mostradas na seção do usuário e nas notificações.
-- Os dados de tarefas, diretórios e darkmode são salvos no localStorage.
+Applied to organize your tasks with the following data: title, description, date, mark as complete and mark as important.
+Tasks are organized into routes: today's tasks, important tasks, incomplete, complete, all tasks and tasks by directory (folder). Directories and tasks can be edited or deleted. In addition, there is a main directory called "Main" which cannot be edited or deleted.
+The list of tasks can be displayed first in: nearest, furthest, complete or incomplete.
+You can search for any tasks in the search field.
+Today's tasks are shown in the user section and notifications.
+Tasks, directories, and darkmode data are saved to localStorage.
 
 ## Objetivo
 
